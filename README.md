@@ -1,24 +1,69 @@
-<h1 align="center">Hi 👋, I'm Shubham Navale</h1>
-<h3 align="center">Salesforce Developer: Delivering impactful solutions across the Service Cloud ecosystem, 4X certified.</h3>
+# 👋 Hi, I'm Shubham Nawale  
+### Salesforce Developer | Apex & LWC Specialist | SCV (Amazon Connect) | AWS Integrations
 
-- 🔭 I’m currently working on **Intelliswift**
+I'm a Salesforce Developer with **2+ years of experience** building scalable and impactful solutions across the **Service Cloud** ecosystem. I specialize in designing end-to-end architectures, developing reusable components, integrating external systems, and delivering customer-focused solutions.
 
-- 🌱 I’m currently learning **WS Services, Advanced Salesforce Service Cloud Voice Capabilities, or new complex integration patterns.**
+---
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/shubham-navale-247ab823a](www.linkedin.com/in/shubham-navale-247ab823a)
+## 💼 Core Skills
 
-- 📝 I regularly write articles on [shubhamnavale3002.blogspot.com](shubhamnavale3002.blogspot.com)
+### 🔧 Salesforce Development
+- Apex (Batch, Queueable, Scheduler)
+- Lightning Web Components (LWC)
+- Flows, Validation Rules, Security Model
+- REST APIs, Platform Events  
+- JWT-based Authentication
 
-- 💬 Ask me about **Apex, Lightning Web Components (LWC), Salesforce Service Cloud Voice with Amazon Connect, CTI Integrations, or designing scalable Salesforce architectures.**
+### ☁️ Service Cloud & CTI
+- Salesforce Service Cloud Voice (SCV)
+- Amazon Connect call flows
+- CTI Integrations & Voice Call Automation
 
-- 📫 How to reach me **shubhamnawale3002@gmail.com**
+### 🧩 Integrations & Cloud
+- REST API Integrations
+- AWS Services (Lambda, S3, Transcribe, Connect)
+- Deployment & Change Sets
+- Data Migration & Metadata Management
 
-- ⚡ Fun fact **I earned 4 Salesforce Certifications (4X Certified) while transitioning from a Civil Engineering background.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubham-navale-247ab823a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-navale-247ab823a/" height="30" width="40" /></a>
-</p>
+## 🏆 Awards & Recognition
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+### 🥇 iDelight Award — Q1 2025  
+_For end-to-end contribution across development, testing, deployment, and data migration, along with direct client interaction._  
+**“He has been instrumental in development, design, testing, deployment, data migration, and direct customer engagement.”** – *Veena Shridhar*
+
+### 🥈 iStandoutChief Award — Q2 2024  
+_For delivering complex Apex/LWC solutions and expanding AWS & call center capabilities across two major projects._  
+**“Shubham has performed well on two complex projects… confident in customer communication and providing advice.”** – *Shashidhar Gurumurthy*
+
+---
+
+## 🚀 What I Do
+- Build scalable Salesforce architectures  
+- Develop enterprise-level Apex & LWC solutions  
+- Integrate Salesforce with AWS and external systems  
+- Configure Service Cloud Voice & CTI flows  
+- Automate business processes using Flows & REST APIs  
+- Work closely with clients to convert business needs into solutions  
+
+---
+
+## 📚 I Believe In
+- Clean, reusable code  
+- Strong documentation  
+- Continuous learning & upskilling  
+- Helping teammates and sharing knowledge  
+- Driving business impact with technology  
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** _Add your link here_  
+- **Trailhead:** _Add your profile link here_  
+- **Email:** _Add your email here_
+
+---
+
+⭐ **Thanks for visiting! Feel free to explore my repositories or connect for collaboration.**  
