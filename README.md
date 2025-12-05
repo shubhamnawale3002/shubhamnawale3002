@@ -56,14 +56,4 @@ _For delivering complex Apex/LWC solutions and expanding AWS & call center capab
 - Helping teammates and sharing knowledge  
 - Driving business impact with technology  
 
----
-
-## 📫 Connect With Me
-
-- **LinkedIn:** _Add your link here_  
-- **Trailhead:** _Add your profile link here_  
-- **Email:** _Add your email here_
-
----
-
 ⭐ **Thanks for visiting! Feel free to explore my repositories or connect for collaboration.**  
